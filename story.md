@@ -9,6 +9,8 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 - Design Pattern
 - Source Code Versioning
 - Microservice
+- SOLID principle
+- OOD
 
 ## Kegiatan Kuliah
 
