@@ -11,3 +11,5 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 - Membahas Design Pattern
 - Mempelajari Monolithic dan Microservices
  
+
+- Belajar microservices & monolithic
