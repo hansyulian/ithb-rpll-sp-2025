@@ -1,6 +1,6 @@
 # Cerita RPLL SP 2025
 
-Suatu hari di semester pendek ITHB, ada kuliah RPLL
+Suatu hari di semester pendek ITHB, ada kuliah RPLL hari Kamis & Jumat bersama Ko Hans Yulian.
 
 ## Bahan RPLL
 - Pengenalan RPLL
