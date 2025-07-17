@@ -12,7 +12,7 @@ Rekayasa Perangkat Lunak Lanjut (RPLL) adalah cabang dari rekayasa perangkat lun
 
 ### 2. Perancangan Perangkat Lunak
 
-Perancangan perangkat lunak merupakan tahap penting dalam pengembangan sistem, di mana struktur dan komponen perangkat lunak dirancang untuk memenuhi kebutuhan fungsional dan non-fungsional. Pendekatan perancangan dapat mencakup paradigma berorientasi objek, modular, prosedural, dan lainnya, dengan tujuan menciptakan sistem yang efisien, mudah dipelihara, dan dapat diskalakan.
+Perancangan perangkat lunak merupakan tahap penting dalam pengembangan sistem, di mana struktur dan komponen perangkat lunak dirancang untuk memenuhi kebutuhan fungsional dan non-fungsional. Proses ini mencakup penentuan arsitektur, pembagian modul, antarmuka antar komponen, serta strategi pengujian dan pemeliharaan, dengan tujuan menciptakan sistem yang efisien, mudah dikembangkan, dan dapat diskalakan.
 
 ---
 
