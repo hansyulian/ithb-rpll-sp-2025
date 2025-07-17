@@ -9,7 +9,4 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 - Presentasi Wireframe/Prototype ke client
 - Membahas dan review kegunaan OOP
 - Membahas Design Pattern
-- Mempelajari Monolithic dan Microservices
- 
-
 - Belajar microservices & monolithic
