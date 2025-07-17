@@ -5,9 +5,9 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 ## Bahan RPLL
 
 - Pengenalan RPLL
-- Perancangan Perangkat Lunak Berorientasi Objek
-- Design Pattern
-- Source Code Versioning
+- Perancangan perangkat lunak
+- Design pattern
+- Source code versioning
 - Microservice
 - SOLID principle
 - OOD
