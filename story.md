@@ -86,3 +86,13 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - Minggu 4, gimana entar.
 
 ## Peserta Kuliah
+- 1121026 - Peter Jaya Sentosa
+- 1122041 - Katherin Yuliana
+- 1123003 - Stanislaus Joel Fabian Atmadjaja
+- 1123009 - Jerryco Axel Dinata
+- 1123027 - Prabhaseta ElangFajri Tajar Anwar
+- 1123047 - Jovan Ananta Wijaya
+- 1123048 - Agustinus Juan Kurniawan
+- 1123049 - Adrian Renard Kristanto
+- 1123053 - Hannah Debora
+- 1124055 - Garry Alexander Chandra
