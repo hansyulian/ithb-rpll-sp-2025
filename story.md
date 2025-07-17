@@ -5,7 +5,7 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 ## Bahan RPLL
 
 - Pengenalan RPLL
-- Perancangan perangkat lunak berorientasi objek
+- Perancangan perangkat lunak
 - Design pattern
 - Source code versioning
 - Microservice
