@@ -14,11 +14,11 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 
 ## Kegiatan Kuliah
 
-- Menganalisis kebutuhan client untuk membuat website marketing
-- Presentasi Wireframe/Prototype ke client
-- Membahas dan review kegunaan OOP
-- Membahas Design Pattern
-- Belajar microservices & monolithic
+- Menganalisis kebutuhan klien untuk pembuatan website marketing.
+- Mempresentasikan wireframe/prototipe ke klien.
+- Membahas dan meninjau penerapan OOP.
+- Membahas pola desain perangkat lunak (Design Pattern).
+- Mempelajari arsitektur microservices dan monolitik.
 
 ## Timeline Kuliah
 
