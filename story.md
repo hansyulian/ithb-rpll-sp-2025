@@ -1,8 +1,30 @@
 # Cerita RPLL SP 2025
 
-## todo: fantastic background
+Suatu hari di semester pendek ITHB, ada kuliah RPLL bersama Ko Hans Yulian. 
+Pada awal perkuliahan, Ko Hans memberikan pengumuman yang tidak biasa:  
+&emsp;"Hari ini kalian akan berburu harta karun di internet. Tapi bukan sembarang harta. Harta ini hanya bisa ditemukan jika kalian benar-benar memahami design pattern, arsitektur microservice, dan version control."  
+Mahasiswa bingung. Mereka kira ini hanya istilah metafora. Tapi Ko Hans serius. Ia memberikan satu repositori Git dengan nama misterius: Treasure-Hunt-Backend.
 
-Suatu hari di semester pendek ITHB, ada kuliah RPLL hari Kamis & Jumat bersama Ko Hans Yulian.
+Level 1: Desain Pattern  
+Repositori pertama berisi potongan kode backend yang berantakan. Untuk mengakses informasi tahap selanjutnya, mahasiswa harus memperbaiki kode tersebut dengan menerapkan design pattern seperti Singleton, Factory, dan Observer.
+Setiap kali mereka berhasil mengimplementasikan pola desain yang tepat, muncul clue dalam bentuk string terenkripsi. Jika salah menerapkan, server akan menampilkan pesan:  
+&emsp;"Terlalu terburu-buru seperti Singleton yang tidak thread-safe."  
+Setelah menyelesaikan tiga pola, clue terakhir memberi koordinat ke server baru.
+
+Level 2: Microservices dan API Gateway  
+Di server berikutnya, mereka menemukan proyek berbasis microservice. Tapi semua layanan terputus. Mereka harus memahami komunikasi antar-layanan melalui API Gateway, Service Registry, dan Docker Compose.
+Satu kelompok terlalu lama memfokuskan diri pada satu service saja, hingga sistem tidak jalan. Baru setelah mereka membagi tugas (mirip arsitektur microservice itu sendiri), mereka mulai melihat potongan puzzle berikutnya: link ke Git tag di repositori utama.  
+
+Level 3: Version Control Time Travel  
+Repositori utama punya ratusan commit. Tapi clue berikutnya hanya bisa ditemukan jika mereka menggunakan Git dengan benar: melihat riwayat commit, branch lama, bahkan konflik merge.
+Satu commit berisi file tersembunyi README.secret.md yang hanya muncul di branch feature/legacy.
+Isinya:  
+&emsp;"Voucher toko plastik sedang menanti, tetapi hanya yang paham sistem akan menemukannya."
+
+Akhir Perjalanan: Isi Harta Karun
+Setelah semua langkah ditempuh, mahasiswa menemukan URL rahasia menuju API endpoint yang menghasilkan file PDF.  
+Di dalamnya: Voucher senilai Rp100.000 dari PlastikHB!
+
 
 ## Bahan RPLL
 
