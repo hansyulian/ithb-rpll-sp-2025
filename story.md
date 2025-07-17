@@ -1,5 +1,7 @@
 # Cerita RPLL SP 2025
 
+## todo: fantastic background
+
 Suatu hari di semester pendek ITHB, ada kuliah RPLL hari Kamis & Jumat bersama Ko Hans Yulian.
 
 ## Bahan RPLL
