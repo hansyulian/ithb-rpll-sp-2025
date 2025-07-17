@@ -24,3 +24,6 @@ Suatu hari di semester pendek ITHB, ada kuliah RPLL
 - Minggu 2, 2 pertemuan for the first time, tamatin proposal SRS dan bikin mockup website tubes.
 - Minggu 3, learning Microservices dan gmeet + absen + diem doang .
 - Minggu 4, gimana entar.
+
+
+## Peserta Kuliah
