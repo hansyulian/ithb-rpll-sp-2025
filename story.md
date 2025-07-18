@@ -2,6 +2,8 @@
 
 Suatu hari di semester pendek ITHB, ada kuliah RPLL hari Kamis & Jumat bersama Ko Hans Yulian.
 
+Dosen-dosen yang ada di informatika ada bu inge, bu ken, ko hans, pa firhat, pa wisnu, dan lain-lain
+
 ## Bahan RPLL
 
 ### 1. Pengenalan RPLL
