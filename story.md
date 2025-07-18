@@ -26,6 +26,8 @@ Setelah semua langkah ditempuh, mahasiswa menemukan URL rahasia menuju API endpo
 Di dalamnya: Voucher senilai Rp100.000 dari PlastikHB!
 
 
+Dosen-dosen yang ada di informatika ada bu inge, bu ken, ko hans, pa firhat, pa wisnu, dan lain-lain
+
 ## Bahan RPLL
 
 ### 1. Pengenalan RPLL
