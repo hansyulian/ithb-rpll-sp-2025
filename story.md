@@ -100,4 +100,4 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - 1124055 - Garry Alexander Chandra
 
 
-## This is new feature
+## Ini fitur baru
