@@ -10,11 +10,9 @@ Rekayasa Perangkat Lunak Lanjut (RPLL) adalah cabang dari rekayasa perangkat lun
 
 ---
 
-### 2. Perancangan Perangkat Lunak Berorientasi Objek
+### 2. Perancangan Perangkat Lunak
 
-##### TODO: @foxroot: kita harus ganti ini jadi ke "Perancangan Perangkat Lunak" sesuai dengan permintaan marketing
-
-Pendekatan dalam pengembangan perangkat lunak yang berfokus pada objek sebagai unit dasar, mencakup konsep seperti enkapsulasi, pewarisan, dan polimorfisme. Tujuannya adalah menciptakan sistem yang modular, fleksibel, dan mudah dipelihara.
+Perancangan perangkat lunak merupakan tahap penting dalam pengembangan sistem, di mana struktur dan komponen perangkat lunak dirancang untuk memenuhi kebutuhan fungsional dan non-fungsional. Proses ini mencakup penentuan arsitektur, pembagian modul, antarmuka antar komponen, serta strategi pengujian dan pemeliharaan, dengan tujuan menciptakan sistem yang efisien, mudah dikembangkan, dan dapat diskalakan.
 
 ---
 
@@ -88,6 +86,7 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - Minggu 4, gimana entar.
 
 ## Peserta Kuliah
+
 - 1121026 - Peter Jaya Sentosa
 - 1122041 - Katherin Yuliana
 - 1123003 - Stanislaus Joel Fabian Atmadjaja
@@ -98,4 +97,3 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - 1123049 - Adrian Renard Kristanto
 - 1123053 - Hannah Debora
 - 1124055 - Garry Alexander Chandra
-
