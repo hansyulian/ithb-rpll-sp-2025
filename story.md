@@ -99,5 +99,3 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - 1123053 - Hannah Debora
 - 1124055 - Garry Alexander Chandra
 
-
-## Ini fitur baru
