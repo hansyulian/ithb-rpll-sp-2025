@@ -97,3 +97,7 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - 1123049 - Adrian Renard Kristanto
 - 1123053 - Hannah Debora
 - 1124055 - Garry Alexander Chandra
+
+## todo: kesan
+### Pesan
+Semoga materi yang telah kita pelajari seperti OOP, Design Pattern hingga CI/CD dan Microservices bisa menjadi fondasi yang kuat dalam pengembangan perangkat lunak ke depannya.
