@@ -100,3 +100,5 @@ Praktik DevOps yang memfasilitasi integrasi kode secara terus-menerus dan penyeb
 - 1124055 - Garry Alexander Chandra
 
 ## todo: pesan kesan
+Kesan:
+Kesan-kesannya ada rasa agak kaget, tapi tetap ada keseruannya juga. Kagetnya dikarenakan hari pertama langsung pengerjaan awal tugas besar. Ga main-main, mulai dari proposal, design mockup, semuanya harus dikerjakan secepatnya berdasarkan input-input dari klien pad hari itu juga. Namun, tetap ada momen serunya ketika menjauh sedikit dari bayang-bayang tugas besar. Diskusi monolithic vs microservices, hingga demonstrasi GitHub bersama-sama tentang source code versioning. 
